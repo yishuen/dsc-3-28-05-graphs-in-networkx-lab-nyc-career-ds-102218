@@ -5,7 +5,8 @@
 
 In this lab we shall look at implementing and visualizing graphs in networkx based on the methods and capabilities of this library that we've seen in previous code along styled lessons. Again, you are encouraged to refer to networkx documentation during this section due to the sheer number of options and methods available in this library and you will find there more than one ways to solve a problem, most of the times. Let's try to implement and visualize some simple networks here. 
 
-## Objectives:
+## Objectives 
+You will be able to:
 - Create graphs in Python using the GraphX library
 - Understand properties of nodes and edges, and how they are added and removed to a graph
 - Visualize graphs with networkx and matplotlib with conditional coloring
@@ -229,6 +230,6 @@ Use `node_colors, color_map, palette` variables calculated above and perform fol
 ![png](index_files/index_20_2.png)
 
 
-# Summary 
+## Summary 
 
 In this lab, we used the skills we have seen in the previous lessons to build simple graphs. We looked at loading a stored graph into networkx and color coding the nodes. We also plotted a simple graph with changing edge thickness to show edge weights. These techniques can be further explored and combined to create great looking graphs. 
