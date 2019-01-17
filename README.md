@@ -1,5 +1,5 @@
 
-# Implementing and Visualizing Graphs with NetworkX - lab
+# Implementing and Visualizing Graphs with NetworkX - Lab
 
 ## Introduction
 
